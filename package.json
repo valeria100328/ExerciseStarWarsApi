@@ -1,0 +1,19 @@
+{
+  "name": "exercise",
+  "version": "1.0.0",
+  "description": "este proyecto es de prueba",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "porueba",
+    "clase"
+  ],
+  "author": "Valeria Maldonado",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
